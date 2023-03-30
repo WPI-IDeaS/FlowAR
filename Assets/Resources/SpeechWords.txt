@@ -1,0 +1,95 @@
+//This is only formatted loosely like an xml doc to provide cell like formatting.
+//These are the words that can be used for speech recognition in this application
+//This is just a record for future developers to see what was done, it is never
+//actually used in anyway other than as a note.
+
+<page>
+	<all pages>
+		<word> Setting
+			<function> Call out the setting panel
+			</function>
+		</word>	
+		<word> Help
+			<function> Get help narration
+			</function>
+		</word>		
+		<word> Home
+			<function> Go to home page
+			</function>
+		</word>		
+		<word> step by step
+			<function> Go to step by step page
+			</function>
+		</word>		
+		<word> Video
+			<function> Open the video page
+			</function>
+		</word>		
+		<word> Sandbox
+			<function> Got to the sandbox page
+			</function>
+		</word>			
+	</all pages>
+
+	<home page> <!-- Same as all pages -->		
+	</home page>
+
+	<stepByStep page>
+		<word> Next
+			<function> Go to the next step
+			</function>
+		</word>	
+		<word> Back
+			<function> Go back one step
+			</function>
+		</word>	
+		<word> Show label
+			<function> Show the labels on the objects
+			</function>
+		</word>	
+		<word> Hide label
+			<function> Hide the labels on the objects
+			</function>
+		</word>	
+	</stepByStep page>
+
+	<video page>
+		<word> Start
+			<function> Start the video
+			</function>
+		</word>	
+		<word> Stop
+			<function> Stop the video
+			</function>
+		</word>	
+		<word> Pause
+			<function> Pause the video
+			</function>
+		</word>	
+	</video page>
+
+	<sandbox page>
+		<word> Show Label
+			<function> show the label on the object
+				<remark> Focus on the object is required
+				</remark>
+			</function>
+		</word>	
+		<word> Hide Label
+			<function> hides the label on the object
+				<remark> Focus on the object is required
+				</remark>
+			</function>
+		</word>	
+		<word> Split	
+			<function> Exanded parts diagram
+			</function>
+		</word>	
+		<word> Combine
+			<function> Combine all the parts
+			</function>
+		</word>	
+	</sandbox page>
+	
+
+</page>

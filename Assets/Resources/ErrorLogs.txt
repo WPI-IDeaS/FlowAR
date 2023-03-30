@@ -1,0 +1,344 @@
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Release_Win32.arund\FlowChemistryAR.exe'. Symbols loaded.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\kernel32legacy.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe\vccorlib140_app.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe\vcruntime140_app.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe\msvcp140_app.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\forwarders\kernel32.dll'. 
+The thread 0x2a8 has exited with code 0 (0x0).
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\procthreadexthost.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\twinapi.appcore.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\rmclient.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\MinUser.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\gdi32min.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\d2d1.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\dcomp.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\advapi32legacy.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\sspicli.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\OneCoreUAPCommonProxyStub.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Graphics.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Shell.ServiceHostBuilder.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Release_Win32.arund\UnityPlayer.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\D3D12.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\mfreadwrite.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\MMDevAPI.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\mfplat.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\forwarders\version.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\RTWorkQ.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ExecModelClient.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Storage.ApplicationData.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi_onecore.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi_onecore.dll'. 
+'FlowChemistryAR.exe' (Win32): Unloaded 'C:\Windows\System32\shlwapi_onecore.dll'
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\MrmCoreR.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Release_Win32.arund\AudioPluginMsHRTF.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\HrtfApo.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\execmodelproxy.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Devices.Enumeration.dll'. 
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: Cn::XH at memory location 0x018FE6DC.
+onecoreuap\windows\moderncore\inputv2\inputhost\components\cursor\client\cursorclient.cpp(43)\InputHost.dll!6EF9AC23: (caller: 6EF9AD9C) ReturnHr(1) tid(854) 87B20809 onecoreuap\windows\moderncore\inputv2\inputhost\components\cursor\client\cursorclient.cpp(75)\InputHost.dll!6EF9ADB3: (caller: 6EF6952D) ReturnHr(2) tid(854) 87B20809 'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\UiaManager.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.Core.TextInput.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Release_Win32.arund\WindowsMRXRSDK.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Perception.Stub.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Mirage.dll'. 
+wil(439)\Windows.Mirage.dll!6F37CB6F: (caller: 6F37C996) ReturnHr(1) tid(17d0) 80070005 Access is denied.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\d3d10warp.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. 
+'FlowChemistryAR.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Release_Win32.arund\GameAssembly.dll'. Symbols loaded.
+'FlowChemistryAR.exe' (Win32): Unloaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Release_Win32.arund\GameAssembly.dll'
+'FlowChemistryAR.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Release_Win32.arund\GameAssembly.dll'. Symbols loaded.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\IPHLPAPI.DLL'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\mswsock.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.Connectivity.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.HostName.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\wshbth.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\dnsapi.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\nsi.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\dhcpcsvc6.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\dhcpcsvc.dll'. 
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\FWPUCLNT.DLL'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\nlaapi.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.ApplicationModel.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\msvcp120.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ntasn1.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\msvcr120.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\msvcr120.dll'. 
+'FlowChemistryAR.exe' (Win32): Unloaded 'C:\Windows\System32\msvcr120.dll'
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\igdusc32.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Media.Devices.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\DevDispItemProvider.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\AudioSes.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\avrt.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\threadpoolwinrt.dll'. 
+The thread 0x12f8 has exited with code 0 (0x0).
+The thread 0xc64 has exited with code 0 (0x0).
+The thread 0x133c has exited with code 0 (0x0).
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Gaming.Input.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Devices.Sensors.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\biwinrt.dll'. 
+onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(1) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(2) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(3) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(4) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(5) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(6) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(7) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(8) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(9) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(10) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(11) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(12) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(13) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(14) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(15) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(16) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(17) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(18) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(19) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(20) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(21) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(22) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(23) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(24) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(25) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(26) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(27) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(28) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(29) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(30) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(31) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(32) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(33) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(34) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(35) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(36) tid(36c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!70D9FC5B: (caller: 70DA2B13) ReturnHr(37) tid(36c) 8685C003 Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\userenv.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\profext.dll'. 
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(1) tid(854) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x018FDFB8.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\simpleorientation.cpp(127)\Windows.Devices.Sensors.dll!5E7A1E77: (caller: 5E79B9CC) Exception(2) tid(854) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x018FE200.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(1) tid(854) 80070490 Element not found.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\lib\simpleorientationsensor.cpp(160)\Windows.Devices.Sensors.dll!5E7FC0FD: (caller: 5E7FA5DB) ReturnHr(2) tid(854) 80070490 Element not found.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\windows.applicationmodel.datatransfer.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\coml2.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ie_shims.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ClipboardServer.dll'. 
+The thread 0x1160 has exited with code 0 (0x0).
+The thread 0x1590 has exited with code 0 (0x0).
+The thread 0xf00 has exited with code 0 (0x0).
+The thread 0x172c has exited with code 0 (0x0).
+The thread 0x11f4 has exited with code 0 (0x0).
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\OneCoreCommonProxyStub.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.System.Profile.SystemId.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Clipc.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\CryptoWinRT.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\rometadata.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\WinMetadata\Windows.UI.winmd'. Module was built without symbols.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\WinMetadata\Windows.Graphics.winmd'. Module was built without symbols.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Media.Speech.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\BCP47Langs.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\msvcp110_win.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\urlmon.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Speech_OneCore\Common\sapi_onecore.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\winhttp.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\rsaenh.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\msxml6.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\ole32_wp.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Globalization.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\BCP47mrm.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\FlightSettings.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\bcd.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Speech_OneCore\Common\SpeechServiceWinRTApi.ProxyStub.dll'. 
+onecoreuap\enduser\nui\onecore\sapi\sapi\sr\srcloudpolicy.cpp(255)\sapi_onecore.dll!63E4FF4D: (caller: 63E50384) ReturnHr(1) tid(1414) 80070005 Access is denied.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Speech_OneCore\Engines\SR\spsrx_onecore.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\wininet.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\tokenbinding.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\OnDemandConnRouteHelper.dll'. 
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\winnsi.dll'. 
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: 0x40080202: WinRT transform error (parameters: 0x8000000B, 0x80070490, 0x00000014, 0x15B0DED4).
+The thread 0x15e0 has exited with code 0 (0x0).
+The thread 0xf64 has exited with code 0 (0x0).
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\cryptnet.dll'. 
+The thread 0xba0 has exited with code 0 (0x0).
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+The thread 0x738 has exited with code 0 (0x0).
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(3) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260CF90.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(4) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260D1D8.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(3) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(5) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260CF60.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(6) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260D1A8.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(4) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(7) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260CF60.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(8) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260D1A8.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(5) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(9) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260CFC0.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(10) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260D208.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(6) tid(154) 80070490 Element not found.
+'FlowChemistryAR.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Web.dll'. 
+The thread 0x600 has exited with code 0 (0x0).
+The thread 0x13e4 has exited with code 0 (0x0).
+The thread 0xf1c has exited with code 0 (0x0).
+The thread 0xe24 has exited with code 0 (0x0).
+The thread 0x16fc has exited with code 0 (0x0).
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: Il2CppExceptionWrapper at memory location 0x0260EF3C.
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(11) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C760.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(12) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C9A8.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(7) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(13) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C730.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(14) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C978.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(8) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(15) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C790.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(16) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C9D8.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(9) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: Il2CppExceptionWrapper at memory location 0x0260EF3C.
+The thread 0x664 has exited with code 0 (0x0).
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(17) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C760.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(18) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C9A8.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(10) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(19) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C730.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(20) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C978.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(11) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 (KernelBase.dll) in FlowChemistryAR.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5E7A379D: (caller: 5E7A27BF) Exception(21) tid(154) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C790.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5E79F85C: (caller: 5E79B9CC) Exception(22) tid(154) 80070490 Element not found.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0260C9D8.
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5E798931: (caller: 5E795D08) ReturnHr(12) tid(154) 80070490 Element not found.
+The thread 0x15bc has exited with code 0 (0x0).
+The thread 0x1774 has exited with code 0 (0x0).
+The thread 0xdc4 has exited with code 0 (0x0).
+The thread 0xb88 has exited with code 0 (0x0).
+The thread 0xbf0 has exited with code 0 (0x0).
+The thread 0x8a0 has exited with code 0 (0x0).
+The thread 0x1230 has exited with code 0 (0x0).
+The thread 0x868 has exited with code 0 (0x0).
+The thread 0xad4 has exited with code 0 (0x0).
+The thread 0x10d4 has exited with code 0 (0x0).
+The thread 0x1588 has exited with code 0 (0x0).
+The thread 0x117c has exited with code 0 (0x0).
+The thread 0xe0c has exited with code 0 (0x0).
+The thread 0x1124 has exited with code 0 (0x0).
+The thread 0x40c has exited with code 0 (0x0).
+Exception thrown at 0x76A23AC2 in FlowChemistryAR.exe: Microsoft C++ exception: Il2CppExceptionWrapper at memory location 0x0260ED10.
+The thread 0xd5c has exited with code 0 (0x0).
+The thread 0xc08 has exited with code 0 (0x0).
+The thread 0x17c4 has exited with code 0 (0x0).
+The thread 0x21c has exited with code 0 (0x0).
+The thread 0x1364 has exited with code 0 (0x0).
+The thread 0x1234 has exited with code 0 (0x0).
+The thread 0x154c has exited with code 0 (0x0).
+The thread 0x176c has exited with code 0 (0x0).
+The thread 0xb4c has exited with code 0 (0x0).
+The thread 0x964 has exited with code 0 (0x0).
+The thread 0x144c has exited with code 0 (0x0).
+The thread 0x5b8 has exited with code 0 (0x0).
+The thread 0x156c has exited with code 0 (0x0).
+The thread 0x1760 has exited with code 0 (0x0).
+The thread 0x57c has exited with code 0 (0x0).
+The thread 0xd1c has exited with code 0 (0x0).
+The thread 0xc30 has exited with code 0 (0x0).
+The thread 0x648 has exited with code 0 (0x0).
+The thread 0xee4 has exited with code 0 (0x0).
+The thread 0x113c has exited with code 0 (0x0).
+The thread 0xed0 has exited with code 0 (0x0).
+The thread 0x108c has exited with code 0 (0x0).
+The thread 0xc8c has exited with code 0 (0x0).
+The thread 0xc58 has exited with code 0 (0x0).
+The thread 0x264 has exited with code 0 (0x0).
+The thread 0xd18 has exited with code 0 (0x0).
+The thread 0x5f0 has exited with code 0 (0x0).
+The thread 0xbbc has exited with code 0 (0x0).
+The thread 0x16f0 has exited with code 0 (0x0).
+The thread 0x1300 has exited with code 0 (0x0).
+The thread 0x11f0 has exited with code 0 (0x0).
+The thread 0x13c0 has exited with code 0 (0x0).
+The thread 0xcf8 has exited with code 0 (0x0).
+The thread 0x1764 has exited with code 0 (0x0).
+The thread 0xb50 has exited with code 0 (0x0).
+The thread 0xb40 has exited with code 0 (0x0).
+The thread 0x1350 has exited with code 0 (0x0).
+The thread 0xad0 has exited with code 0 (0x0).
+The thread 0x9a4 has exited with code 0 (0x0).
+The thread 0x145c has exited with code 0 (0x0).
+The thread 0xda8 has exited with code 0 (0x0).
+The thread 0x404 has exited with code 0 (0x0).
+The thread 0x14b4 has exited with code 0 (0x0).
+The thread 0x158 has exited with code 0 (0x0).
+The thread 0x758 has exited with code 0 (0x0).
+The thread 0x1328 has exited with code 0 (0x0).
+The thread 0x17e8 has exited with code 0 (0x0).
+The thread 0xef4 has exited with code 0 (0x0).
+The thread 0x13d0 has exited with code 0 (0x0).
+The thread 0xda4 has exited with code 0 (0x0).
+Exception thrown at 0x0FF54117 (UnityPlayer.dll) in FlowChemistryAR.exe: 0xC0000005: Access violation reading location 0x00000000.
+
+The program '[5780] FlowChemistryAR.exe' has exited with code 0 (0x0).
